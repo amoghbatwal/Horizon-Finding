@@ -1,4 +1,4 @@
-# CSCI-B 551 Elements of Artficial Intelligence
+# CSCI-B 551 Elements of Artificial Intelligence
 
 ### Horizon-Finding
 
